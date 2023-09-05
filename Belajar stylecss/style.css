@@ -1,0 +1,20 @@
+h1{ color: lightblue;
+    font-family: arial;
+    font-size: 50px;}
+p{  
+    color:rgb(23, 85, 48);
+    font-family: arial;
+}
+li{
+    font-size: 15px;
+    font-family:cursive;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+
+    display:block;
+    margin: 0px auto 0px auto;
+}
